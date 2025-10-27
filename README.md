@@ -67,7 +67,9 @@ It generated a Cartesian product, which can be useful in simulations or data ana
 
 ---
 
-All screenshots of queries and outputs are attached in the Word document 
+All screenshots of queries and outputs are attached in the [Task 5 Document](Task_5-Joins.docx)
+
+
 
 ---
 
